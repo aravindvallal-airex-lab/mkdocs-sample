@@ -1,3 +1,3 @@
-# Page 3 Initiate
+# Page 3
 
 ## Page 3 Heading
